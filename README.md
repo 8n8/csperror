@@ -7,6 +7,7 @@ There is an Elm web app served up by a Go server.
 + Install Go
 + Install Elm 0.19
 + Clone this repository and cd into it
++ Install elm-ui with: ```elm install mdgriffith/elm-ui```
 + Build the Elm code with: ```elm make Main.elm --output=main.js```
 + Set the $GOPATH to the 'go' directory in this repository: ```export $GOPATH `pwd`/go```
 + Install the Go http library: ```go get net/http```
