@@ -1,0 +1,4 @@
+*.sw*
+elm-stuff/
+main.js
+go/bin/
